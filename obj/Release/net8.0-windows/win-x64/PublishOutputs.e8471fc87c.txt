@@ -1,2 +1,0 @@
-C:\Users\Даниэль\Documents\RuGJlauncher\bin\Release\net8.0-windows\win-x64\publish\RuGJlauncher.pdb
-C:\Users\Даниэль\Documents\RuGJlauncher\bin\Release\net8.0-windows\win-x64\publish\RuGJlauncher.exe
